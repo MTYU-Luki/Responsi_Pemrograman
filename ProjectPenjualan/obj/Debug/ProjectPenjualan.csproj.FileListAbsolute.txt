@@ -4,3 +4,9 @@ C:\Users\MTYU\Downloads\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenju
 C:\Users\MTYU\Downloads\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
 C:\Users\MTYU\Downloads\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
 C:\Users\MTYU\Downloads\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+E:\Tugas Perkuliahan\Visual Studi\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb

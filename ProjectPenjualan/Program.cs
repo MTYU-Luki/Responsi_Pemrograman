@@ -138,7 +138,7 @@ namespace ProjectPenjualan
                 {
                     jenis = " Kredit";
                 }
-                Console.WriteLine(" {0}. Nota: {1}, Tanggal: {2}, Customer: {3}, Jenis: {4}, Total Utang: Rp {5:n0}", noUrut, penjualan.Nota, penjualan.Date, penjualan.Customer, jenis , penjualan.Total);
+                Console.WriteLine(" {0}. Nota: {1}, Tanggal: {2}, Customer: {3}, Jenis: {4}, Total Nota: Rp {5:n0}", noUrut, penjualan.Nota, penjualan.Date, penjualan.Customer, jenis , penjualan.Total);
 
                 noUrut++;
             }
